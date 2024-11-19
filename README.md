@@ -1,1 +1,1 @@
-# task6
+This project demonstrates how version control can be used to track changes and progress in a simple software project. By making incremental commits as you develop features, you can ensure that each step is documented and can be easily revisited or undone if needed. This process not only helps in tracking development progress but also enhances collaboration by making it easier to identify and merge changes.
