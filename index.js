@@ -12,3 +12,12 @@ function findOddNumbers(arr) {
 
 console.log("Even numbers:", findEvenNumbers(numbers));
 console.log("Odd numbers:", findOddNumbers(numbers));
+
+// Pattern Printing: 5 rows
+function printPattern() {
+    for (let i = 1; i <= 5; i++) {
+        console.log('*'.repeat(i));
+    }
+}
+
+printPattern();
