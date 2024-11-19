@@ -21,3 +21,8 @@ function printPattern() {
 }
 
 printPattern();
+
+// Fixed bug in odd number filtering
+function findOddNumbers(arr) {
+    return arr.filter(num => num % 2 === 1); // Corrected the logic
+}
